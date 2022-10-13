@@ -1,0 +1,10 @@
+8월 22, 2022 4:12:18 오후 ch11.MyLogger log
+미세: test
+8월 22, 2022 4:12:18 오후 ch11.MyLogger log
+구성: test
+8월 22, 2022 4:12:18 오후 ch11.MyLogger log
+정보: test
+8월 22, 2022 4:12:18 오후 ch11.MyLogger log
+경고: test
+8월 22, 2022 4:12:18 오후 ch11.MyLogger log
+심각: test
