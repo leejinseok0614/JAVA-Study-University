@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20I'm%20LeeJinSeok&fontSize=60)
-
-<div align=center>
-  
 **◆ Introduction**
 
 안녕하세요! <br/> 백엔드 개발자를 희망하고 있는 대학생입니다!<br/>
