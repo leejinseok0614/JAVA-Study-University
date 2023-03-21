@@ -9,9 +9,9 @@
 노력으로 승부하는 초보 백엔드 개발자입니다!
 <br/>
 
-- 온라인 강의 (Fasct Campus, 한국디지털컨버전스 누리잡) 수강완료!
-- Java, JavaScript, MS Sql 수강 완료!
-- 1일 1백준 진행중!!
+온라인 강의 (Fasct Campus, 한국디지털컨버전스 누리잡) 수강완료!
+Java, JavaScript, MS Sql 수강 완료!
+1일 1백준 진행중!!
   
 **◇ Skill**
 
